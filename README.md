@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋.
 
-<!--
-**cncg-casa/cncg-casa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to our github repository. We are the Cloud Compute Native Community Group in Casablanca, Morocco. A group of people with a comman interest in Cloud Native Technologies and the CNCF ecosystem and who are willing to learn together.
 
-Here are some ideas to get you started:
+WE ARE:
+- Based in Morocco 🇲🇦.
+- A community of Cloud Native Tech enthusiasts.
+- A Cloud Native Comunity [Group](https://community.cncf.io/casablanca/) 
+- On [Facebook](https://www.facebook.com/cncg.casa)
+- On [Twitter](https://twitter.com/cncg_casa)
+- On [Youtube](https://bit.ly/cncgcasa)
+- Reacheable on all our Social Media but also by email on cncg.casa@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out our community [repo](https://github.com/cncg-casa/community) for a list of our activities and resources we share.
+
