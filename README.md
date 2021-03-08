@@ -1,6 +1,6 @@
 ### Hi there 👋.
 
-Welcome to our github repository. We are the Cloud Compute Native Community Group in Casablanca, Morocco. A group of people with a comman interest in Cloud Native Technologies and the CNCF ecosystem and who are willing to learn together.
+Welcome to our github repository. We are the Cloud Compute Native Community Group in Casablanca, Morocco. A group of people with a common interest in Cloud Native Technologies and the CNCF ecosystem who are willing to learn together.
 
 WE ARE:
 - Based in Morocco 🇲🇦.
